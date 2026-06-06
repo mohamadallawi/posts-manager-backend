@@ -20,6 +20,7 @@ describe('PostsController', () => {
       createdAt: new Date(),
       updatedAt: new Date(),
     },
+    comments: [],
     createdAt: new Date(),
     updatedAt: new Date(),
   };

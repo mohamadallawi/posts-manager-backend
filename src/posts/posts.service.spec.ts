@@ -26,6 +26,7 @@ describe('PostsService', () => {
     content: 'Content',
     userId: 'user-1',
     user: mockUser,
+    comments: [],
     createdAt: new Date(),
     updatedAt: new Date(),
   };
